@@ -2,7 +2,7 @@
 This repository is used to save the code for a competition
 
 若对以下描述有任何疑问，请及时与我们联系。
-邮箱: jiexin_zheng@qq.com
+邮箱: xuxcong@gmail.com , jiexin_zheng@qq.com
 
 ## 1.	运行环境 
 
